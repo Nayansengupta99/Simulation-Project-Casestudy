@@ -1,0 +1,6 @@
+projectKey=book-cart-service
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=book-cart-service
+ceTaskId=AXSabGWz_hRT7uZoM4V2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXSabGWz_hRT7uZoM4V2
